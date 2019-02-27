@@ -76,6 +76,7 @@ You can also specify keys combined with SHIFT and/or CTRL and/or ALT. To specify
 |SHIFT| `+` (plus sign)|
 |CTRL| `^` (caret)|
 |ALT| `%` (percent sign)|
+|CMD (macOS only)| `(` (left parenthesis)|
 
 To assign a procedure to one of the special characters (+, ^, %, and so on), enclose the character in braces. For details, see the example.
 
